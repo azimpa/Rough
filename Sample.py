@@ -14,3 +14,5 @@ def remove_duplicates(lst):
 my_list = [1, 2, 3, 2, 1, 4, 5, 3]
 remove_duplicates(my_list)
 print(my_list)
+
+
